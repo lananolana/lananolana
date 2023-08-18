@@ -16,4 +16,4 @@
 ![Header](https://img.shields.io/badge/linux-090909?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Header](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
 
-<!-- ![Snake animation](https://github.com/schoegar/schoegar/blob/output/github-contribution-grid-snake-dark.svg) -->
+![Snake animation](https://github.com/schoegar/schoegar/blob/output/github-contribution-grid-snake-dark.svg)
