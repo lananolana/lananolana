@@ -1,5 +1,4 @@
-### Hi there!
-I'm Lana, a QA engineer. 
+### Hi! I'm Lana, a QA engineer
 
 ### Tech Stack
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
