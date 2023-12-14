@@ -9,6 +9,7 @@
 ![Header](https://img.shields.io/badge/sentry-090909?style=for-the-badge&logo=sentry&logoColor=362D59)
 ![Header](https://img.shields.io/badge/grafana-090909?style=for-the-badge&logo=grafana&logoColor=F46800)
 ![Header](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=postgresql&logoColor=003B57)
+![Header](https://img.shields.io/badge/metabase-090909?style=for-the-badge&logo=metabase&logoColor=509EE3)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=85EA2D)
 ![Header](https://img.shields.io/badge/qase-090909?style=for-the-badge&logo=qase&logoColor=44268F)
 ![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
