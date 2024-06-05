@@ -1,5 +1,4 @@
 ## Stack
-![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=charles&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
@@ -15,5 +14,6 @@
 ![Header](https://img.shields.io/badge/linux-090909?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Header](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Header](https://img.shields.io/badge/selenium-090909?style=for-the-badge&logo=selenium&logoColor=43B02A)
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 
 ![Snake animation](https://github.com/schoegar/schoegar/blob/output/github-contribution-grid-snake-dark.svg)
